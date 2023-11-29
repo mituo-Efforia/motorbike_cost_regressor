@@ -84,33 +84,32 @@
         黒、青、赤、黄、緑、オレンジ、茶、ピンク、紫、白、銀
     * カラム名変更
       * bigqueryにアップロード時に日本語カラムが文字化けしてしまうことを知らなかったため、英語名に変換した。
-        
-    * horse_data_concat.ipynb : 分割して取得したhorse_dataを結合し、以下の加工をした。
-      *  カラムの半角スペースを削除し、扱いやすさを改善。
-      *  映像列など欠損値しかないカラムの削除
-      *  芝2000の様な距離と馬場素材が入っているカラムを
-         と2000の様にsurfaceと距離で情報分割。
-    * dashboard_data_reshape.ipynb : 上記2データを加工して結合し、dashborard様に更に加工をしたデータ。
-      * horse_dataから両方に重複するカラムの削除
-      * horse_dataの方のrace_idに海外レースのidがstr型のためintに変換
-      * horse_idとrace_idをkeyに結合
-      * ソートに必要な開催年、レースレベル列の作成。
-    * parquet_convert : 各データがcsvだと大きすぎてアップロードができなかったため、変換した。
 
+        
 * '分析用'
-  *　 EDA
-  * 下記に各notebookでの加工内容概要を記載
-    * データ整形用(型式、名称).ipynb : bike_info_20231115.csvに下記の整形を実施。
-      実施内容多数のため概要のみ記載(詳細はnotebookをご参照ください。)
-      *  不要カラムの削除
-      *  全角文字(数字、記号、カタカナ)を半角に変換
-      *  各カラムから不要な文字列、記号を削除
-    * データ整形用(color).ipynb :
-      * 店舗によるデータ入力のため、色の入力もまちまちだったので、下記の色にまとめた。
-        黒、青、赤、黄、緑、オレンジ、茶、ピンク、紫、白、銀
+  *　 EDA.ipynb
+    * 探索的データ分析用notebook
+    * 下記の分析を実施
+        * cost	model_year	mileage	guarantee_period　の相関関係の表示
+        * 各変数の分布状況の把握
+        * lightgbmを用いて、重要変数を確認。
+    * 上記に加えてlooker studioを使用して各次元と価格の関係性を可視化した。
+  * kurascal.ipynb
+    * クラスカルウォリス検定を用いて、バイクのタイプによって価格に差があるかどうかを検定した。
+  * 機械学習用train_test分割用.ipynb
+    * bike_info_dataをtrain_dataとtest_dataに分割
 
 * 'scrape'
-  *  Webサイトスクレイピング実行用のnotebook、およびその処理を関数化したpythonファイルを格納
-  *  主に2つのurl群をスクレイピング
-  *  下記のrace_dataスクレイピングurlからテーブルデータ部分を取得。
-     horse_dataスクレイピングurlからテーブルデータを取得。
+  Webサイトスクレイピング実行用のnotebook、およびその処理を関数化したpythonファイルを格納
+    * scrape.py
+      バイクのIDと個体データを取得する関数のpyhtonファイル
+    * scraping.ipynb
+      scrape関数を用いてバイクIDと個体データを取得したnotebook
+      * 下記のurlからidを取得
+        https://www.8190.jp/wish/ds/bike/search/
+      * 取得したidを元に下記のurlよりバイクのデータを取得
+        https://www.8190.jp/wish/ds/bike/2100006384475/
+    * tenpo.ipynb
+      店舗データを取得したnotebook
+* 'requirements.txt'
+   実行環境を記載したファイル
