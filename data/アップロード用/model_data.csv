@@ -1,0 +1,855 @@
+,model_number,brand,name,type,displacement
+0,0E71,BMW, M1000RR,スポーツ/ツアラー,1000.0
+1,0J51,BMW, R1250GS,オフロード/モタード,1250.0
+2,0K11,BMW, F900R ABS,ネイキッド,900.0
+3,0L11,BMW, R18 Classic,アメリカン/クルーザー,1800.0
+4,1290 SUPER DUKE GT,KTM,1290 SUPER DUKE GT,ネイキッド,1290.0
+5,1290SDV3949,KTM, 1290ｽｰﾊﾟｰﾃﾞｭｰｸR ,ネイキッド,1290.0
+6,1JN,YAMAHA, SR500,ネイキッド,500.0
+7,1JR,YAMAHA, SR4002,ネイキッド,400.0
+8,1KT,YAMAHA, TZR250,スポーツ/ツアラー,250.0
+9,250EXC-F,KTM, 250EXCF,オフロード/モタード,250.0
+10,27V,YAMAHA, JOG,スクーター/ビッグスクーター,50.0
+11,29L,YAMAHA, RZ250RR,スポーツ/ツアラー,250.0
+12,2AJ-JF84,HONDA,  PCX HYBRID,スクーター/ビッグスクーター,125.0
+13,2AJ-JK06,HONDA, PCX e:HEV,スクーター/ビッグスクーター,125.0
+14,2BH-AA06,HONDA, ｸﾛｽｶﾌﾞ50,ネイキッド,50.0
+15,2BH-AA09,HONDA, ｽｰﾊﾟｰｶﾌﾞ50,ネイキッド,50.0
+16,2BH-AF77,HONDA, ｼﾞｮﾙﾉ,スクーター/ビッグスクーター,50.0
+17,2BH-AF79,HONDA, ﾀｸﾄﾍﾞｰｼｯｸ,スクーター/ビッグスクーター,50.0
+18,2BH-AY01,YAMAHA, JOG,スクーター/ビッグスクーター,50.0
+19,2BH-AY02,YAMAHA, Vino,スクーター/ビッグスクーター,50.0
+20,2BH-CA4AA,SUZUKI, ﾚｯﾂ,スクーター/ビッグスクーター,50.0
+21,2BH-SA57J,YAMAHA, ｼﾞｮｸﾞ,スクーター/ビッグスクーター,50.0
+22,2BH-SA58J,YAMAHA, JOG ZR,スクーター/ビッグスクーター,50.0
+23,2BH-SA59J,YAMAHA, VINO,スクーター/ビッグスクーター,50.0
+24,2BH-TA03,HONDA, GYRO CANOPY,スクーター/ビッグスクーター,50.0
+25,2BH-TD02,HONDA, ｼﾞｬｲﾛX,スクーター/ビッグスクーター,50.0
+26,2BH-UA08J,YAMAHA, GEAR,スクーター/ビッグスクーター,50.0
+27,2BJ-BR125H,KAWASAKI, Z125PRO,ネイキッド,125.0
+28,2BJ-CE47A,SUZUKI, ｱﾄﾞﾚｽ110,スクーター/ビッグスクーター,110.0
+29,2BJ-DL32B,SUZUKI, GSXS125,ネイキッド,125.0
+30,2BJ-DL33B,SUZUKI, GSXR125 ABS,スポーツ/ツアラー,125.0
+31,2BJ-DT11A,SUZUKI, ｱﾄﾞﾚｽ125,スクーター/ビッグスクーター,125.0
+32,2BJ-DV12B,SUZUKI, ｽｲｯｼｭ,スクーター/ビッグスクーター,125.0
+33,2BJ-JA09,HONDA, ﾍﾞﾝﾘｨ110,スクーター/ビッグスクーター,110.0
+34,2BJ-JA42,HONDA, ｽｰﾊﾟｰｶﾌﾞ110ﾌﾟﾛ,ネイキッド,110.0
+35,2BJ-JA44,HONDA, ｽｰﾊﾟｰｶﾌﾞ110,ネイキッド,110.0
+36,2BJ-JA45,HONDA, ｸﾛｽｶﾌﾞ110,ネイキッド,110.0
+37,2BJ-JA48,HONDA, ｽｰﾊﾟｰｶﾌﾞC125,ネイキッド,125.0
+38,2BJ-JA55,HONDA, CT125ﾊﾝﾀｰｶﾌﾞ,ネイキッド,125.0
+39,2BJ-JB02,HONDA, ﾓﾝｷｰ125,ネイキッド,125.0
+40,2BJ-JB03,HONDA, ﾓﾝｷｰ125,ネイキッド,125.0
+41,2BJ-JC75,HONDA, ｸﾞﾛﾑ,オフロード/モタード,125.0
+42,2BJ-JC79,HONDA, CB125R,ネイキッド,125.0
+43,2BJ-JC92,HONDA, ｸﾞﾛﾑ,オフロード/モタード,125.0
+44,2BJ-JF45,HONDA, ﾘｰﾄﾞ125,スクーター/ビッグスクーター,125.0
+45,2BJ-JF81,HONDA, PCX125,スクーター/ビッグスクーター,125.0
+46,2BJ-JK03,HONDA, DIO110,スクーター/ビッグスクーター,110.0
+47,2BJ-JK05,HONDA, PCX125,スクーター/ビッグスクーター,125.0
+48,2BJ-SED6J,YAMAHA, NMAX,スクーター/ビッグスクーター,125.0
+49,2BJ-SED7J,YAMAHA, AXIS Z,スクーター/ビッグスクーター,125.0
+50,2BJ-SED8J,YAMAHA, ｼｸﾞﾅｽXSR,スクーター/ビッグスクーター,125.0
+51,2BK-CH41A,SUZUKI, ﾊﾞｰｸﾞﾏﾝ200,スクーター/ビッグスクーター,200.0
+52,2BK-DG31J,YAMAHA, ｾﾛｰ250,オフロード/モタード,250.0
+53,2BK-DG32J,YAMAHA, Tricker,オフロード/モタード,250.0
+54,2BK-DN11A,SUZUKI, GSX250R,スポーツ/ツアラー,250.0
+55,2BK-DS11A,SUZUKI, Vｽﾄﾛｰﾑ250,オフロード/モタード,250.0
+56,2BK-ED13N,SUZUKI, ｼﾞｸｻｰ150,ネイキッド,150.0
+57,2BK-ED22B,SUZUKI, ｼﾞｸｻｰ250,ネイキッド,250.0
+58,2BK-EX250P,KAWASAKI, NINJA250,スポーツ/ツアラー,250.0
+59,2BK-KF30,HONDA, PCX150,スクーター/ビッグスクーター,150.0
+60,2BK-KF38,HONDA, ADV150,スクーター/ビッグスクーター,150.0
+61,2BK-KF47,HONDA, PCX160,スクーター/ビッグスクーター,160.0
+62,2BK-LE250D,KAWASAKI, ﾍﾞﾙｼｽX250,ネイキッド,250.0
+63,2BK-LX230A,KAWASAKI, KLX230,オフロード/モタード,230.0
+64,2BK-MC49,HONDA, ﾚﾌﾞﾙ250,アメリカン/クルーザー,250.0
+65,2BK-MC51,HONDA, CBR250RR,スポーツ/ツアラー,250.0
+66,2BK-MC52,HONDA, CB250R,ネイキッド,250.0
+67,2BK-MD44,HONDA, CRF250 RALLY,オフロード/モタード,250.0
+68,2BK-MD47,HONDA, CRF250L,オフロード/モタード,250.0
+69,2BK-MF13,HONDA, ﾌｫﾙﾂｧ,スクーター/ビッグスクーター,250.0
+70,2BK-MF15,HONDA, ﾌｫﾙﾂｧ,スクーター/ビッグスクーター,250.0
+71,2BK-NG4BG,SUZUKI, GIXXER 150,ネイキッド,150.0
+72,2BK-RG43J,YAMAHA, YZFR25,スポーツ/ツアラー,250.0
+73,2BK-SG37J,YAMAHA, ﾄﾘｼﾃｨ155,スクーター/ビッグスクーター,155.0
+74,2BK-SG42J,YAMAHA, XMAX,スクーター/ビッグスクーター,250.0
+75,2BK-SG50J,YAMAHA, NMAX155,スクーター/ビッグスクーター,155.0
+76,2BK-SG52J,YAMAHA, ﾏｼﾞｪｽﾃｨS,スクーター/ビッグスクーター,155.0
+77,2BK-ZX250E,KAWASAKI, Ninja ZX25R,スポーツ/ツアラー,250.0
+78,2BL-1M00,Ducati, Monster +  937 ,ネイキッド,937.0
+79,2BL-790DUKE,KTM, 790DUKE,ネイキッド,790.0
+80,2BL-AC00,Ducati, Multistrada 1260S,スポーツ/ツアラー,1260.0
+81,2BL-C40AA,BMW, C400GT,スクーター/ビッグスクーター,400.0
+82,2BL-C533F,SUZUKI, GSXS750,ネイキッド,750.0
+83,2BL-C65AA,BMW, C650 Sport,スクーター/ビッグスクーター,650.0
+84,2BL-C733A,SUZUKI, Vｽﾄﾛｰﾑ650XT,オフロード/モタード,650.0
+85,2BL-CDJ900,Triumph, Tiger 900 GT Pro,オフロード/モタード,900.0
+86,2BL-DGJ900,Triumph, ｽﾄﾘｰﾄｽｸﾗﾝﾌﾞﾗｰ,ネイキッド,900.0
+87,2BL-DHJ1200,Triumph, ｽﾋﾟｰﾄﾞﾂｲﾝ1200,ネイキッド,1200.0
+88,2BL-DM09J,YAMAHA, Tenere 700 ABS,オフロード/モタード,700.0
+89,2BL-DM11G,SUZUKI, GSXR1000R ABS,スポーツ/ツアラー,1000.0
+90,2BL-DU11A,SUZUKI, BURGMAN 400 ABS,スクーター/ビッグスクーター,400.0
+91,2BL-EJ800B,KAWASAKI, W800,ネイキッド,800.0
+92,2BL-EN650G,KAWASAKI, ﾊﾞﾙｶﾝS,アメリカン/クルーザー,650.0
+93,2BL-ER650H,KAWASAKI, NINJA650,スポーツ/ツアラー,650.0
+94,2BL-EX400G,KAWASAKI, NINJA400,スポーツ/ツアラー,400.0
+95,2BL-F85AA,BMW, F750GS,オフロード/モタード,850.0
+96,2BL-F90AA,BMW, F900XR ABS,スポーツ/ツアラー,900.0
+97,2BL-FA00,Ducati, ｽﾄﾘｰﾄﾌｧｲﾀｰV4,ネイキッド,1100.0
+98,2BL-FLC,Harley-Davidson,  FLTRX1750Road Glide Special,アメリカン/クルーザー,1750.0
+99,2BL-FLL,Harley-Davidson, FLTRXSE1920CVOﾛｰﾄﾞｸﾞﾗｲﾄﾞ,アメリカン/クルーザー,1920.0
+100,2BL-FLP,Harley-Davidson, FLTRXS ﾛｰﾄﾞｸﾞﾗｲﾄﾞ ｽﾍﾟｼｬﾙ,アメリカン/クルーザー,1870.0
+101,2BL-G31AA,BMW, G310GS,オフロード/モタード,310.0
+102,2BL-GT79B,SUZUKI, GSXS1000F,ネイキッド,1000.0
+103,2BL-H4J765,Triumph, Street Triple RS,ネイキッド,765.0
+104,2BL-HAJ660,Triumph, ｽﾄﾘｰﾄﾄﾘﾌﾟﾙS,ネイキッド,765.0
+105,2BL-HJ1200B,Triumph, ﾎﾞﾝﾈﾋﾞﾙ,ネイキッド,1200.0
+106,2BL-KB01,Ducati, ｽｸﾗﾝﾌﾞﾗｰ,ネイキッド,803.0
+107,2BL-LUJ660,Triumph, TRIDENT 660,ネイキッド,660.0
+108,2BL-MH00,Ducati, Monster 821,ネイキッド,820.0
+109,2BL-NC42,HONDA, CB400 SUPER FOUR HYPER VTEC Revo,ネイキッド,400.0
+110,2BL-NC47,HONDA, CBR400R,スポーツ/ツアラー,400.0
+111,2BL-NC56,HONDA, CBR400R,スポーツ/ツアラー,400.0
+112,2BL-NC59,HONDA, GB350,ネイキッド,350.0
+113,2BL-PC40,HONDA, CBR600RR,スポーツ/ツアラー,600.0
+114,2BL-PC60,HONDA, ﾚﾌﾞﾙ500,ネイキッド,500.0
+115,2BL-R12JB,BMW, RnineTｱｰﾊﾞﾝG,ネイキッド,1170.0
+116,2BL-R12MA,BMW, R1250GS,オフロード/モタード,1250.0
+117,2BL-R12MB,BMW, R1250R,ネイキッド,1200.0
+118,2BL-R187A,BMW, R18 First Edition,アメリカン/クルーザー,1800.0
+119,2BL-R9T7A,BMW, RnineTｱｰﾊﾞﾝG,ネイキッド,1170.0
+120,2BL-RC80,HONDA, VFR800Xｸﾛｽﾗﾝﾅｰ,ネイキッド,800.0
+121,2BL-RC83,HONDA, CB650F,スポーツ/ツアラー,650.0
+122,2BL-RC88,HONDA, NC750S,ネイキッド,750.0
+123,2BL-RC90,HONDA, NC750X,ネイキッド,750.0
+124,2BL-RC95,HONDA, XADV,スクーター/ビッグスクーター,750.0
+125,2BL-RH03,HONDA, CBR650R,スポーツ/ツアラー,650.0
+126,2BL-RH13J,YAMAHA, YZFR3,ネイキッド,320.0
+127,2BL-RH16J,YAMAHA, SR400,ネイキッド,400.0
+128,2BL-RM19J,YAMAHA, MT07,ネイキッド,700.0
+129,2BL-RM22J,YAMAHA, XSR700,ネイキッド,700.0
+130,2BL-RN50J,YAMAHA, MT10,ネイキッド,1000.0
+131,2BL-RN51J,YAMAHA, ﾄﾚｰｻｰ900GT,ネイキッド,850.0
+132,2BL-RN52J,YAMAHA, MT09,ネイキッド,900.0
+133,2BL-RN56J,YAMAHA, XSR900,ネイキッド,900.0
+134,2BL-RN58J,YAMAHA, NIKENﾅｲｹﾝABS,ネイキッド,850.0
+135,2BL-S10AA,BMW, S1000RR,スポーツ/ツアラー,1000.0
+136,2BL-S10CA,BMW, S1000RR,スポーツ/ツアラー,1000.0
+137,2BL-SC54,HONDA, CB1300ｽｰﾊﾟｰﾎﾞﾙﾄﾞｰﾙ,ネイキッド,1300.0
+138,2BL-SC65,HONDA, CB1100RS,ネイキッド,1100.0
+139,2BL-SC77,HONDA, CBR1000RR,スポーツ/ツアラー,1000.0
+140,2BL-SC79,HONDA, GOLDWING Tour Dual Clutch Trunsmission <AIRBAG>  GL1800 ,スポーツ/ツアラー,1800.0
+141,2BL-SC80,HONDA, CB1000R,ネイキッド,1000.0
+142,2BL-SC82,HONDA, CBR1000RRR,スポーツ/ツアラー,1000.0
+143,2BL-SD10,HONDA, CRF1100Lｱﾌﾘｶﾂｲﾝ,オフロード/モタード,1100.0
+144,2BL-SEC1J,YAMAHA, TRICITY 125,スクーター/ビッグスクーター,125.0
+145,2BL-SJ15J,YAMAHA, TMAX530,スクーター/ビッグスクーター,530.0
+146,2BL-STJ,Harley-Davidson, FLFB1750,アメリカン/クルーザー,1750.0
+147,2BL-STK,Harley-Davidson, Softail Breakout  FXBRS1870 ,アメリカン/クルーザー,1870.0
+148,2BL-VA01,Ducati, Super Sport 950S,スポーツ/ツアラー,937.0
+149,2BL-VN09J,YAMAHA, BOLT,アメリカン/クルーザー,950.0
+150,2BL-VP55B,SUZUKI, SV650X,ネイキッド,650.0
+151,2BL-XL2,Harley-Davidson, Sportster 883 Iron  XL883N ,アメリカン/クルーザー,883.0
+152,2BL-XL3,Harley-Davidson, XL1200NS,アメリカン/クルーザー,1200.0
+153,2BL-ZR900B,KAWASAKI, Z900 ﾖｼﾑﾗﾁﾀﾝ,ネイキッド,900.0
+154,2BL-ZR900C,KAWASAKI, Z900RS,ネイキッド,950.0
+155,2BL-ZRT00K,KAWASAKI, Z,アメリカン/クルーザー,1000.0
+156,2BL-ZX636G,KAWASAKI, Ninja ZX6R,スポーツ/ツアラー,600.0
+157,2BL-ZXT00W,KAWASAKI, NINJA1000,スポーツ/ツアラー,1000.0
+158,2BL-ZXT02A,KAWASAKI, NINJA,スポーツ/ツアラー,1000.0
+159,2BL-ZXT02E,KAWASAKI, Ninja ZX10R KRT Edition,スポーツ/ツアラー,1000.0
+160,2BL-ZXT02J,KAWASAKI, Ninja H2 Carbon,スポーツ/ツアラー,1000.0
+161,2BL-ZXT02K,KAWASAKI, NINJA1000SX,スポーツ/ツアラー,1000.0
+162,2H6,YAMAHA, SR400 34F0 ,ネイキッド,400.0
+163,2JL,YAMAHA, TW200,オフロード/モタード,200.0
+164,2LT,YAMAHA, VMAX,ネイキッド,1200.0
+165,2TV,YAMAHA, SDR200,ネイキッド,200.0
+166,2WE,YAMAHA, VMAX1200,ネイキッド,1200.0
+167,374,YAMAHA, GT80,オフロード/モタード,80.0
+168,390DUKEJGJ42,KTM, 390DUKE,ネイキッド,390.0
+169,390DUKEJPJ42,KTM, 390 DUKEﾊﾞｰｴﾝﾄﾞ,ネイキッド,390.0
+170,3BH/3ST,YAMAHA, XT500,オフロード/モタード,500.0
+171,3DM,YAMAHA, XV250Sﾋﾞﾗｰｺﾞ,アメリカン/クルーザー,250.0
+172,3M8,YAMAHA, GT80,オフロード/モタード,80.0
+173,3VN,YAMAHA, SRX400,ネイキッド,400.0
+174,3XC,YAMAHA, R1Z,ネイキッド,250.0
+175,3YX,YAMAHA, ZEAL,ネイキッド,250.0
+176,4G0,YAMAHA, XJ400D,ネイキッド,400.0
+177,4GY,YAMAHA, TT250R RAID,オフロード/モタード,250.0
+178,4HM,YAMAHA, XJR400RⅡ,ネイキッド,400.0
+179,4JG,YAMAHA, ｾﾛｰ225WE,オフロード/モタード,225.0
+180,4L3,YAMAHA, RZ250,ネイキッド,250.0
+181,4RF,YAMAHA, XV125ﾋﾞﾗｰｺﾞ,アメリカン/クルーザー,125.0
+182,4TP,YAMAHA, DT230ﾗﾝﾂｧ,オフロード/モタード,230.0
+183,4TR,YAMAHA, Drag Star 400,アメリカン/クルーザー,400.0
+184,4U1,YAMAHA, QA50,ネイキッド,50.0
+185,701SPUBV47,Husqvarna, SVARTPILEN 701,ネイキッド,692.0
+186,7G,Harley-Davidson, Low Rider  FXS80 ,アメリカン/クルーザー,1340.0
+187,8BJ-DL32D,SUZUKI, GSXS125,ネイキッド,125.0
+188,8BJ-EA12J,SUZUKI, AVENISｱｳﾞｪﾆｽ125,スクーター/ビッグスクーター,125.0
+189,8BJ-JA58,HONDA, ｽｰﾊﾟｰｶﾌﾞC125,ネイキッド,125.0
+190,8BJ-JA59,HONDA, ｽｰﾊﾟｰｶﾌﾞ110,ネイキッド,110.0
+191,8BJ-JA61,HONDA, ｽｰﾊﾟｰｶﾌﾞ110PRO ﾋﾞｼﾞﾈｽﾕｰｽｶﾌﾞ,ネイキッド,110.0
+192,8BJ-JA65,HONDA, CT125ﾊﾝﾀｰｶﾌﾞ,ネイキッド,125.0
+193,8BJ-JB04,HONDA, DAX125,ネイキッド,125.0
+194,8BJ-JC91,HONDA, CB125R,ネイキッド,125.0
+195,8BJ-JK03,HONDA, DIO110,スクーター/ビッグスクーター,110.0
+196,8BJ-JK12,HONDA, ﾘｰﾄﾞ125,スクーター/ビッグスクーター,125.0
+197,8BJ-SEG6J,YAMAHA, NMAX,スクーター/ビッグスクーター,125.0
+198,8BJ-SEJ4J,YAMAHA, ｼｸﾞﾅｽｸﾞﾘﾌｧｽ,スクーター/ビッグスクーター,125.0
+199,8BJ-SEJ5J,YAMAHA, JOG 125,スクーター/ビッグスクーター,125.0
+200,8BK-EX250Y,KAWASAKI, Ninja 250 KRT Edition,スポーツ/ツアラー,250.0
+201,8BK-MC57,HONDA, CL250,ネイキッド,250.0
+202,8BK-MF17,HONDA, ﾌｫﾙﾂｧ277km,スクーター/ビッグスクーター,250.0
+203,8BK-RG74J,YAMAHA, YZFR25,ネイキッド,250.0
+204,8BK-SG70J,YAMAHA, XMAX,スクーター/ビッグスクーター,250.0
+205,8BK-SG79J,YAMAHA, X,スクーター/ビッグスクーター,155.0
+206,8BL-EF11M,SUZUKI, Vｽﾄﾛｰﾑ1050XT,スポーツ/ツアラー,1050.0
+207,8BL-EJ11A,SUZUKI, ﾊﾔﾌﾞｻ,スポーツ/ツアラー,1300.0
+208,8BL-EJ800B,KAWASAKI, MEGURO K3,ネイキッド,800.0
+209,8BL-EJ800E,KAWASAKI, W800,ネイキッド,800.0
+210,8BL-EK1AA,SUZUKI, GSXS1000,ネイキッド,1000.0
+211,8BL-ER650H,KAWASAKI, NINJA650,スポーツ/ツアラー,650.0
+212,8BL-ER650M,KAWASAKI, Z650RS,ネイキッド,650.0
+213,8BL-EX400L,KAWASAKI, Z400,ネイキッド,400.0
+214,8BL-RD16,HONDA, XL750ﾄﾗﾝｻﾞﾙﾌﾟ,スポーツ/ツアラー,750.0
+215,8BL-RH09,HONDA, NC750X,ネイキッド,750.0
+216,8BL-RH1,Harley-Davidson, NIGHTSTER,ネイキッド,975.0
+217,8BL-RH10,HONDA, XADV,スクーター/ビッグスクーター,750.0
+218,8BL-RH4,Harley-Davidson, RH1250S,ネイキッド,1250.0
+219,8BL-RM33J,YAMAHA, MT07,ネイキッド,700.0
+220,8BL-RM39J,YAMAHA, YZFR7,スポーツ/ツアラー,700.0
+221,8BL-RM41J,YAMAHA, XSR700,ネイキッド,700.0
+222,8BL-RN65J,YAMAHA, YZFR1,スポーツ/ツアラー,1000.0
+223,8BL-RN69J,YAMAHA, MT09,ネイキッド,900.0
+224,8BL-RN70J,YAMAHA, ﾄﾚｰｻｰ9GT,ネイキッド,850.0
+225,8BL-RN80J,YAMAHA, XSR900,ネイキッド,900.0
+226,8BL-SC54,HONDA, CB1300Super,スポーツ/ツアラー,1300.0
+227,8BL-SC83,HONDA, ﾚﾌﾞﾙ1100,ネイキッド,1100.0
+228,8BL-SC84,HONDA, NT1100,スポーツ/ツアラー,1100.0
+229,8BL-SC85,HONDA, HAWK 11,ネイキッド,1100.0
+230,8BL-SJ19J,YAMAHA, TMAX560,スクーター/ビッグスクーター,560.0
+231,8BL-STJ,Harley-Davidson, Softail Standard  FXST1750 ,アメリカン/クルーザー,1750.0
+232,8BL-VP55E,SUZUKI, SV650,ネイキッド,650.0
+233,8BL-ZR900K,KAWASAKI, Z900RS,ネイキッド,950.0
+234,8BL-ZXT02L,KAWASAKI, NINJA,スポーツ/ツアラー,1000.0
+235,A-5AU,YAMAHA, ﾋﾞｰﾉ,スクーター/ビッグスクーター,50.0
+236,A-AB26,HONDA, ﾀﾞｯｸｽ50 ,ネイキッド,50.0
+237,A-AC10,HONDA, NSR50 ﾁｬﾝﾊﾞｰ,スポーツ/ツアラー,50.0
+238,A-AC12,HONDA, NS1,スポーツ/ツアラー,50.0
+239,A-AC13,HONDA, MAGNA FIFTY,アメリカン/クルーザー,50.0
+240,A-AF24,HONDA, ｼﾞｮﾙﾉ,スクーター/ビッグスクーター,50.0
+241,A-C50,HONDA, ﾘﾄﾙｶﾌﾞ,ネイキッド,50.0
+242,A-Z50J,HONDA, ﾓﾝｷｰ,ネイキッド,50.0
+243,A101,Italjet, ITALJET,アメリカン/クルーザー,125.0
+244,A201,Italjet, ITALJET,スクーター/ビッグスクーター,200.0
+245,AB12,HONDA, ﾓﾄｺﾝﾎﾟ,スクーター/ビッグスクーター,50.0
+246,AB22,HONDA, ﾓﾝｷｰR,ネイキッド,50.0
+247,AC09,HONDA, JAZZ,アメリカン/クルーザー,50.0
+248,AC15,HONDA, ﾄﾞﾘｰﾑ50,ネイキッド,50.0
+249,AF09,HONDA, ﾀｸﾄ,スクーター/ビッグスクーター,50.0
+250,B320,MV Agusta, BRUTALE 800,ネイキッド,800.0
+251,B61,SUZUKI, GSXR1000,スポーツ/ツアラー,1000.0
+252,B700AA,SWM, ｴｰｽｵﾌﾞｽﾍﾟｰﾄﾞ125,ネイキッド,125.0
+253,BA-AA01,HONDA, ﾘﾄﾙｶﾌﾞ,ネイキッド,50.0
+254,BA-AB27,HONDA, ﾓﾝｷｰ,ネイキッド,50.0
+255,BA-AC13,HONDA, MAGNA50,アメリカン/クルーザー,50.0
+256,BA-AC16,HONDA, ｴｲﾌﾟ50,ネイキッド,50.0
+257,BA-AC17,HONDA, Solo,ネイキッド,50.0
+258,BA-AD14,HONDA, XR50 Motard,オフロード/モタード,50.0
+259,BA-AF58,HONDA, ｽﾞｰﾏｰ,スクーター/ビッグスクーター,50.0
+260,BA-AF61,HONDA, ﾄｩﾃﾞｲ,スクーター/ビッグスクーター,50.0
+261,BA-BJ250A,KAWASAKI, ｴｽﾄﾚﾔRS,ネイキッド,250.0
+262,BA-BJ250F,KAWASAKI, 250TR,ネイキッド,250.0
+263,BA-CD50,HONDA, ﾍﾞﾝﾘｨCD50S,ネイキッド,50.0
+264,BA-DG07J,YAMAHA, TW200,オフロード/モタード,200.0
+265,BA-DG08J,YAMAHA, ｾﾛｰ225WE,オフロード/モタード,225.0
+266,BA-DG09J,YAMAHA, TW225E,オフロード/モタード,225.0
+267,BA-DG10J,YAMAHA, ﾄﾘｯｶｰ,オフロード/モタード,250.0
+268,BA-DG11J,YAMAHA, ｾﾛｰ250,オフロード/モタード,250.0
+269,BA-KL250G,KAWASAKI, ｽｰﾊﾟｰｼｪﾙﾊﾟ,オフロード/モタード,250.0
+270,BA-MC29,HONDA, VTWIN MAGNA,アメリカン/クルーザー,250.0
+271,BA-MC31,HONDA, HORNET250,ネイキッド,250.0
+272,BA-MC33,HONDA, VTR 250,ネイキッド,250.0
+273,BA-MC34,HONDA, FTR223,オフロード/モタード,223.0
+274,BA-MD30,HONDA, XR250,オフロード/モタード,250.0
+275,BA-MD36,HONDA, XR230,オフロード/モタード,230.0
+276,BA-MF04,HONDA, ﾌｫｰｻｲﾄ･EX ,スクーター/ビッグスクーター,250.0
+277,BA-MF06,HONDA, ｽﾋﾟｰﾄﾞﾌｫﾙﾂｧ,スクーター/ビッグスクーター,250.0
+278,BA-MF08,HONDA, ﾌｫﾙﾂｧZ,スクーター/ビッグスクーター,250.0
+279,BA-MF09,HONDA, PS250,スクーター/ビッグスクーター,250.0
+280,BA-NA41A,SUZUKI, GS50,ネイキッド,50.0
+281,BA-NH41A,SUZUKI, VanVan 200,ネイキッド,200.0
+282,BA-NJ47A,SUZUKI, ｸﾞﾗｽﾄﾗｯｶｰﾋﾞｯｸﾞﾎﾞｰｲ,ネイキッド,250.0
+283,BA-NJ4AA,SUZUKI, ST250,ネイキッド,250.0
+284,BA-NJ4BA,SUZUKI, ｸﾞﾗｽﾄﾗｯｶｰ,ネイキッド,250.0
+285,BA-SA26J,YAMAHA, Vino,スクーター/ビッグスクーター,50.0
+286,BA-SG03J,YAMAHA, ﾏｼﾞｪｽﾃｨ250,スクーター/ビッグスクーター,250.0
+287,BA-SG17J,YAMAHA, MAXAM,スクーター/ビッグスクーター,250.0
+288,BA-SH42A,SUZUKI, DJEBEL 200,オフロード/モタード,200.0
+289,BA-SJ45A,SUZUKI, ｼﾞｪﾍﾞﾙ250XC,オフロード/モタード,250.0
+290,BA-VG02J,YAMAHA, ﾄﾞﾗｯｸﾞｽﾀｰ250,アメリカン/クルーザー,250.0
+291,BA-VJ51A,SUZUKI, ｲﾝﾄﾙｰﾀﾞｰ250LC,アメリカン/クルーザー,250.0
+292,BA-ZR250C,SUZUKI, GSX250FX,ネイキッド,250.0
+293,BB-RA02J,YAMAHA, RZ50 5FC2 ﾘﾔｷｬﾘﾔ,ネイキッド,50.0
+294,BB-SA10J,YAMAHA, VINO,スクーター/ビッグスクーター,50.0
+295,BB-SA16J,YAMAHA, JOG ZR,スクーター/ビッグスクーター,50.0
+296,BB-TA01,HONDA, ｼﾞｬｲﾛ UP TA01ﾓﾃﾞﾙ,スクーター/ビッグスクーター,50.0
+297,BC-CF46A,SUZUKI, ｱﾄﾞﾚｽV125G,スクーター/ビッグスクーター,125.0
+298,BC-CK43A,SUZUKI, SKYWAVEｽｶｲｳｴｲﾌﾞ400,スクーター/ビッグスクーター,400.0
+299,BC-CK44A,SUZUKI, ｽｶｲｳｪｲﾌﾞ400,スクーター/ビッグスクーター,400.0
+300,BC-EJ400A,KAWASAKI, W400,ネイキッド,400.0
+301,BC-EJ650A,KAWASAKI, W650,ネイキッド,650.0
+302,BC-GK7CA,SUZUKI, GSX400ｲﾝﾊﾟﾙｽ,ネイキッド,400.0
+303,BC-GV78A,SUZUKI, GS1200SS,スポーツ/ツアラー,1200.0
+304,BC-GV79A,SUZUKI, 1130,スポーツ/ツアラー,1200.0
+305,BC-HC07,HONDA, APE 100,ネイキッド,100.0
+306,BC-HD13,HONDA, XR100ﾓﾀｰﾄﾞ,オフロード/モタード,100.0
+307,BC-JF13,HONDA, SPACY 100100㏄ｽｸｰﾀｰ,スクーター/ビッグスクーター,100.0
+308,BC-KL110A,KAWASAKI, ,オフロード/モタード,110.0
+309,BC-NC26,HONDA, ｽﾃｨｰﾄﾞ400,アメリカン/クルーザー,400.0
+310,BC-NC39,HONDA, CB400ｽｰﾊﾟｰﾎﾞﾙﾄﾞｰﾙ,ネイキッド,400.0
+311,BC-NC40,HONDA, SHADOW SLASHER 400ｼｬﾄﾞｳｽﾗｯｼｬｰ,アメリカン/クルーザー,400.0
+312,BC-NC41,HONDA, CB400SS,ネイキッド,400.0
+313,BC-PC34,HONDA, HORNET S,ネイキッド,600.0
+314,BC-PC37,HONDA, CBR600RR,スポーツ/ツアラー,600.0
+315,BC-PF01,HONDA, ｼﾙﾊﾞｰｳｲﾝｸﾞ600ﾄｯﾌﾟｹｰｽ,スクーター/ビッグスクーター,600.0
+316,BC-RC42,HONDA, CB750,ネイキッド,750.0
+317,BC-RC44,HONDA, SHADOW 750,アメリカン/クルーザー,750.0
+318,BC-RC46,HONDA, VFR,スポーツ/ツアラー,800.0
+319,BC-RC50,HONDA, SHADOW 750,アメリカン/クルーザー,750.0
+320,BC-RH01J,YAMAHA, SR400,ネイキッド,400.0
+321,BC-RH02J,YAMAHA, XJR400R,ネイキッド,400.0
+322,BC-RP03J,YAMAHA, XJR1300,ネイキッド,1300.0
+323,BC-SC38,HONDA, X4,アメリカン/クルーザー,1300.0
+324,BC-SC40,HONDA, CB1300 SUPER FOUR SpecialCB1300ｽｰﾊﾟｰﾌｫｱ,ネイキッド,1300.0
+325,BC-SC54,HONDA, CB1300ｽｰﾊﾟｰﾎﾞﾙﾄﾞｰﾙ,スポーツ/ツアラー,1300.0
+326,BC-SC57,HONDA, CBR1000RR,スポーツ/ツアラー,1000.0
+327,BC-SE12J,YAMAHA, CYGNUS Xｷｬﾌﾞﾓﾃﾞﾙﾉｰﾏﾙ,スクーター/ビッグスクーター,125.0
+328,BC-SJ02J,YAMAHA, TMAX,スクーター/ビッグスクーター,500.0
+329,BC-SK44A,SUZUKI, DRZ400SM,オフロード/モタード,400.0
+330,BC-VH01J,YAMAHA, Drag Star Classic 400,アメリカン/クルーザー,400.0
+331,BC-VK54A,SUZUKI, Intruder Classic,アメリカン/クルーザー,400.0
+332,BC-VN400D,KAWASAKI, VULCAN DRIFTERﾊﾞﾙｶﾝﾄﾞﾘﾌﾀｰﾉｰﾏﾙ,アメリカン/クルーザー,400.0
+333,BC-VN900B,KAWASAKI, VULCAN 900 CLASSIC,アメリカン/クルーザー,900.0
+334,BC-VP13J,YAMAHA, Drag Star 1100,アメリカン/クルーザー,1100.0
+335,BC-ZR400C,KAWASAKI, ZEPHYR χ,ネイキッド,400.0
+336,BC-ZR400E,KAWASAKI, ZRX400,ネイキッド,400.0
+337,BC-ZR750C,KAWASAKI, ZEPHYR 750 Final Edition,ネイキッド,750.0
+338,BC-ZRT10A,KAWASAKI, ZEPHYR1100,ネイキッド,1100.0
+339,BC-ZX400N,KAWASAKI, ZZR400,スポーツ/ツアラー,400.0
+340,BD-CF11A,SUZUKI, ｱﾄﾞﾚｽ110,スクーター/ビッグスクーター,110.0
+341,BF5,Harley-Davidson, FXSB1580,アメリカン/クルーザー,1580.0
+342,BHY,Harley-Davidson, FXST1450ｿﾌﾃｲﾙｽﾀﾝﾀﾞｰﾄﾞﾊｰﾚｰ,アメリカン/クルーザー,1450.0
+343,BJ250A,KAWASAKI, ｴｽﾄﾚﾔ,ネイキッド,250.0
+344,BJHD1,KAWASAKI, W175,ネイキッド,175.0
+345,BJY,Harley-Davidson, FLSTC1450,アメリカン/クルーザー,1450.0
+346,BML,Harley-Davidson, FLSTF1340ﾌｧｯﾄﾎﾞｰｲ,アメリカン/クルーザー,1340.0
+347,BMY,Harley-Davidson, FLSTF1450,アメリカン/クルーザー,1450.0
+348,BN125A,KAWASAKI, ELIMINATOR 125,アメリカン/クルーザー,125.0
+349,BNY,Harley-Davidson, FLSTN1450,アメリカン/クルーザー,1450.0
+350,BPL,Harley-Davidson, FXSTSB1340ﾊﾞｯﾄﾞﾎﾞｰｲ,アメリカン/クルーザー,1340.0
+351,BRL,Harley-Davidson, FLSTS1340,アメリカン/クルーザー,1340.0
+352,BRY,Harley-Davidson, FLSTSC1450,アメリカン/クルーザー,1450.0
+353,BSY,Harley-Davidson, FXSTD1450ｿﾌﾃｲﾙﾃﾞｭｰｽ,アメリカン/クルーザー,1450.0
+354,BTY,Harley-Davidson, FXSTB1450,アメリカン/クルーザー,1450.0
+355,BW5,Harley-Davidson, FLSTC1580,アメリカン/クルーザー,1580.0
+356,BWB,Harley-Davidson, FLSTC1450,アメリカン/クルーザー,1450.0
+357,BX5,Harley-Davidson, FLSTF1580,アメリカン/クルーザー,1580.0
+358,BY5,Harley-Davidson, FLSTSC1580,アメリカン/クルーザー,1580.0
+359,C4111,SUZUKI, GSXR750L1,スポーツ/ツアラー,750.0
+360,C50,HONDA, ｽｰﾊﾟｰｶﾌﾞ50,ネイキッド,50.0
+361,C5112,SUZUKI, GSR750,ネイキッド,750.0
+362,C70,HONDA, ｽｰﾊﾟｰｶﾌﾞ70DX,ネイキッド,70.0
+363,CA111,SUZUKI, Intruder M1800R,アメリカン/クルーザー,1800.0
+364,CA121,SUZUKI, ﾌﾞﾙﾊﾞｰﾄﾞM109RｲﾝﾄﾙｰﾀﾞｰM1800R,アメリカン/クルーザー,1800.0
+365,CAM,Harley-Davidson, Sportster 883  XL883 ,アメリカン/クルーザー,883.0
+366,CB400,HONDA, CB400F398ccﾓﾃﾞﾙ,ネイキッド,398.0
+367,CB400F,HONDA, CB400F408cc FCRｷｬﾌﾞﾚﾀｰ,ネイキッド,408.0
+368,CB750,HONDA, CB750Four,ネイキッド,750.0
+369,CD50,HONDA, ﾍﾞﾝﾘｨCL50,ネイキッド,50.0
+370,CEM,Harley-Davidson, XLH883Hﾊｶﾞｰ,アメリカン/クルーザー,883.0
+371,CF4MA,SUZUKI, ｱﾄﾞﾚｽV125SS,スクーター/ビッグスクーター,125.0
+372,CF50,HONDA, ｼｬﾘｲ･50AT,ネイキッド,50.0
+373,CGP,Harley-Davidson, XL1200C ｶｽﾀﾑ,アメリカン/クルーザー,1200.0
+374,CHP,Harley-Davidson, XL1200S,アメリカン/クルーザー,1200.0
+375,CJM,Harley-Davidson, XL883C,アメリカン/クルーザー,883.0
+376,CK111,SUZUKI, HAYABUSA,スポーツ/ツアラー,1300.0
+377,CKM,Harley-Davidson, XL883R,アメリカン/クルーザー,883.0
+378,CLP,Harley-Davidson, XL1200R,アメリカン/クルーザー,1200.0
+379,CMM,Harley-Davidson, XL883L,アメリカン/クルーザー,883.0
+380,CN2,Harley-Davidson, Sportster 883 Injection  XL883I ,アメリカン/クルーザー,883.0
+381,CR2,Harley-Davidson, Sportster 883 Low ,アメリカン/クルーザー,883.0
+382,CRF190L,HONDA, CRF190L,オフロード/モタード,190.0
+383,CS2,Harley-Davidson, Sportster 883 R  XL883RI ,アメリカン/クルーザー,883.0
+384,CT3,Harley-Davidson, XL1200C,アメリカン/クルーザー,1200.0
+385,CV3,Harley-Davidson, Sportster 1200 Roadster  XL1200R ,アメリカン/クルーザー,1200.0
+386,CWP,Harley-Davidson, XL1200Lﾛｰ,アメリカン/クルーザー,1200.0
+387,CX3,Harley-Davidson, Sportster 1200 Low,アメリカン/クルーザー,1200.0
+388,CZ3,Harley-Davidson, XL1200N,アメリカン/クルーザー,1200.0
+389,DG11,SUZUKI, GSXS1000,ネイキッド,1000.0
+390,DG371,YAMAHA, WR155R ,オフロード/モタード,155.0
+391,DL33B,SUZUKI, GSXR125,スポーツ/ツアラー,125.0
+392,DM09,YAMAHA, ﾃﾈﾚ700,オフロード/モタード,700.0
+393,DM11G,SUZUKI, GSXR1000R,スポーツ/ツアラー,1000.0
+394,DP01,YAMAHA, XT1200Z,スポーツ/ツアラー,1199.0
+395,DS47,KTM, 690DUKE,ネイキッド,690.0
+396,E200,Beta, ｽﾋﾟｰﾄﾞRR4T125LC,オフロード/モタード,125.0
+397,EA11D,SUZUKI, ﾊﾞｰｸﾞﾏﾝｽﾄﾘｰﾄ,スクーター/ビッグスクーター,125.0
+398,EBJ-CE47A,SUZUKI, ｱﾄﾞﾚｽ110,スクーター/ビッグスクーター,110.0
+399,EBJ-CF4EA,SUZUKI, ｱﾄﾞﾚｽV125,スクーター/ビッグスクーター,125.0
+400,EBJ-CF4MA,SUZUKI, ｱﾄﾞﾚｽV125S,スクーター/ビッグスクーター,125.0
+401,EBJ-HC13,HONDA, ｴｲﾌﾟ100,ネイキッド,100.0
+402,EBJ-JA07,HONDA, ｽｰﾊﾟｰｶﾌﾞ110,ネイキッド,110.0
+403,EBJ-JA09,HONDA, BENLY 110,スクーター/ビッグスクーター,110.0
+404,EBJ-JA10,HONDA, ｸﾛｽｶﾌﾞ110,ネイキッド,110.0
+405,EBJ-JC50,HONDA, CBR125R,スポーツ/ツアラー,125.0
+406,EBJ-JC61,HONDA, ｸﾞﾛﾑ,オフロード/モタード,125.0
+407,EBJ-JF28,HONDA, PCX,スクーター/ビッグスクーター,125.0
+408,EBJ-JF31,HONDA, DIO110,スクーター/ビッグスクーター,110.0
+409,EBJ-JF45,HONDA, ﾘｰﾄﾞ125,スクーター/ビッグスクーター,125.0
+410,EBJ-JF52,HONDA, ｽﾞｰﾏｰX,スクーター/ビッグスクーター,110.0
+411,EBJ-JF56,HONDA, PCX125,スクーター/ビッグスクーター,125.0
+412,EBJ-JF58,HONDA, DIO110,スクーター/ビッグスクーター,110.0
+413,EBJ-LX125C,KAWASAKI, KLX125,オフロード/モタード,125.0
+414,EBJ-LX125D,KAWASAKI, Dﾄﾗｯｶｰ125,オフロード/モタード,125.0
+415,EBJ-SE44J,YAMAHA, ｼｸﾞﾅｽXSR,スクーター/ビッグスクーター,125.0
+416,EBJ-SE53J,YAMAHA, ｱｸｼｽﾄﾘｰﾄ,スクーター/ビッグスクーター,125.0
+417,EBJ-SE82J,YAMAHA, ﾄﾘｼﾃｨ125,スクーター/ビッグスクーター,125.0
+418,EBJ-SE86J,YAMAHA, NMAX,スクーター/ビッグスクーター,125.0
+419,EBJ-SEA5J,YAMAHA, ｼｸﾞﾅｽXSR,スクーター/ビッグスクーター,125.0
+420,EBJ-SEA6J,YAMAHA, BW'S 125ﾌﾙﾉｰﾏﾙﾏｯﾄﾞﾌﾞﾗｯｸ,スクーター/ビッグスクーター,125.0
+421,EBL-1200CN,Harley-Davidson, Sportster 1200T Super Low  XL1200T ,アメリカン/クルーザー,1200.0
+422,EBL-7J865,Triumph, ﾎﾞﾝﾈﾋﾞﾙT100,ネイキッド,865.0
+423,EBL-883RN,Harley-Davidson, XL883N,アメリカン/クルーザー,883.0
+424,EBL-C65AA,BMW, C650GT,スクーター/ビッグスクーター,650.0
+425,EBL-CK45A,SUZUKI, ｽｶｲｳｪｲﾌﾞ400ABS,スクーター/ビッグスクーター,400.0
+426,EBL-CP52A,SUZUKI, ｽｶｲｳｪｲﾌﾞ650LX,スクーター/ビッグスクーター,650.0
+427,EBL-EJ800A,KAWASAKI, W800,ネイキッド,800.0
+428,EBL-EN650A,KAWASAKI, VULCAN S ,アメリカン/クルーザー,650.0
+429,EBL-ER400B,KAWASAKI, NINJA400R,スポーツ/ツアラー,400.0
+430,EBL-EX400E,KAWASAKI, Ninja 400,スポーツ/ツアラー,400.0
+431,EBL-FD4B,Harley-Davidson, Dyna Street Bob  FXDB1580 ,アメリカン/クルーザー,1580.0
+432,EBL-FD8,Harley-Davidson, Dyna Low Rider S  FXDLS1800 ,アメリカン/クルーザー,1800.0
+433,EBL-FDM,Harley-Davidson, Dyna Street Bob  FXDB1690 ,アメリカン/クルーザー,1690.0
+434,EBL-FLC,Harley-Davidson, ,アメリカン/クルーザー,1750.0
+435,EBL-FLHL,Harley-Davidson, FLHTCUL,アメリカン/クルーザー,1690.0
+436,EBL-FLN,Harley-Davidson, CVO FLHXSE1800ｽﾄﾘｰﾄｸﾞﾗｲﾄﾞ,アメリカン/クルーザー,1800.0
+437,EBL-FSV,Harley-Davidson, FLSTC1690,アメリカン/クルーザー,1690.0
+438,EBL-GJ900,Triumph, ｽﾄﾘｰﾄﾂｲﾝ,ネイキッド,900.0
+439,EBL-GR7NA,SUZUKI, GSR750 ABS,ネイキッド,750.0
+440,EBL-GT79A,SUZUKI, GSXS1000,ネイキッド,1000.0
+441,EBL-GW72A,SUZUKI, Bandit 1250F ABS,スポーツ/ツアラー,1250.0
+442,EBL-GX72B,SUZUKI, ﾊﾔﾌﾞｻ,スポーツ/ツアラー,1300.0
+443,EBL-HJ1200,Triumph, Thruxton 1200,ネイキッド,1200.0
+444,EBL-JF19,HONDA, ﾘｰﾄﾞ110,スクーター/ビッグスクーター,110.0
+445,EBL-K102,Ducati, ｽｸﾗﾝﾌﾞﾗｰｱｲｺﾝ,ネイキッド,800.0
+446,EBL-KA00,Ducati, Scrambler Sixty2,ネイキッド,400.0
+447,EBL-NC42,HONDA, CB400 SUPER FOUR HYPER VTEC Revo,ネイキッド,400.0
+448,EBL-NC44,HONDA, SHADOW Classic 400 ,アメリカン/クルーザー,400.0
+449,EBL-NC45,HONDA, SHADOW CUSTOM 400,アメリカン/クルーザー,400.0
+450,EBL-NC46,HONDA, VT400S,ネイキッド,400.0
+451,EBL-NC47,HONDA, 400X,オフロード/モタード,400.0
+452,EBL-PC40,HONDA, CBR600RR,スポーツ/ツアラー,600.0
+453,EBL-PF02,HONDA, ｼﾙﾊﾞｰｳｨﾝｸﾞGT600,スクーター/ビッグスクーター,600.0
+454,EBL-R12JB,BMW, R nine T,ネイキッド,1170.0
+455,EBL-R12NA,BMW,  R1200GS,オフロード/モタード,1200.0
+456,EBL-R12NB,BMW, R1200RS,ネイキッド,1200.0
+457,EBL-RC50,HONDA, SHADOW 750ｽｸﾘｰﾝ･ﾊﾟﾆｱ･ﾊﾞｯｸﾚｽﾄ,アメリカン/クルーザー,750.0
+458,EBL-RC53,HONDA, ｼｬﾄﾞｳﾌｧﾝﾄﾑ750,アメリカン/クルーザー,750.0
+459,EBL-RC58,HONDA, VT750S,スポーツ/ツアラー,750.0
+460,EBL-RC61,HONDA, NC700S,ネイキッド,700.0
+461,EBL-RC62,HONDA, INTEGRA ,スポーツ/ツアラー,700.0
+462,EBL-RC63,HONDA, NC700X,ネイキッド,700.0
+463,EBL-RC68,HONDA, CTX700N,アメリカン/クルーザー,700.0
+464,EBL-RC70,HONDA, NC750S,ネイキッド,750.0
+465,EBL-RC72,HONDA, NC750X,ネイキッド,750.0
+466,EBL-RC79,HONDA, VFR800F,スポーツ/ツアラー,800.0
+467,EBL-RC82,HONDA, NM402,スポーツ/ツアラー,750.0
+468,EBL-RC83,HONDA, CBR650F,スポーツ/ツアラー,650.0
+469,EBL-RH03J,YAMAHA, SR400,ネイキッド,400.0
+470,EBL-RH07J,YAMAHA, MT03,ネイキッド,320.0
+471,EBL-RM07J,YAMAHA, MT07,ネイキッド,700.0
+472,EBL-RN21J,YAMAHA, FZ1,スポーツ/ツアラー,1000.0
+473,EBL-RN24J,YAMAHA, YZFR1,スポーツ/ツアラー,1000.0
+474,EBL-RN34J,YAMAHA, MT09,ネイキッド,900.0
+475,EBL-RN36J,YAMAHA, MT09,ネイキッド,900.0
+476,EBL-RN46J,YAMAHA, XSR900,ネイキッド,900.0
+477,EBL-RP27J,YAMAHA, FJR1300A,スポーツ/ツアラー,1300.0
+478,EBL-S10CA,BMW, S1000R,ネイキッド,1000.0
+479,EBL-SC54,HONDA, CB1300ｽｰﾊﾟｰﾎﾞﾙﾄﾞｰﾙ,スポーツ/ツアラー,1300.0
+480,EBL-SC59,HONDA, CBR1000RR,スポーツ/ツアラー,1000.0
+481,EBL-SC61,HONDA, VT1300CX,アメリカン/クルーザー,1300.0
+482,EBL-SC63,HONDA, VFR1200F,スポーツ/ツアラー,1200.0
+483,EBL-SC65,HONDA, CB1100,ネイキッド,1100.0
+484,EBL-SC66,HONDA, VT1300CR,アメリカン/クルーザー,1300.0
+485,EBL-SC68,HONDA, GL1800,アメリカン/クルーザー,1800.0
+486,EBL-SC70,HONDA, VFR1200Xｸﾛｽﾂｱﾗｰ DCT,オフロード/モタード,1200.0
+487,EBL-SD04,HONDA, CRF1000L,オフロード/モタード,1000.0
+488,EBL-SJ08J,YAMAHA, TMAX WGP50th Anniversary Edition,スクーター/ビッグスクーター,500.0
+489,EBL-SJ12J,YAMAHA, TMAX530 ,スクーター/ビッグスクーター,530.0
+490,EBL-TGL,Harley-Davidson, FLHTCUTG1690ﾄﾗｲｸﾞﾗｲﾄﾞｳﾙﾄﾗ,アメリカン/クルーザー,1690.0
+491,EBL-VH02J,YAMAHA, ﾄﾞﾗｯｸﾞｽﾀｰ400,アメリカン/クルーザー,400.0
+492,EBL-VK56A,SUZUKI, Intruder Classic ｲﾝﾄﾙｰﾀﾞｰｷｬｽﾄﾎｲｰﾙ,アメリカン/クルーザー,400.0
+493,EBL-VK57A,SUZUKI, ﾌﾞﾙﾊﾞｰﾄﾞ400,アメリカン/クルーザー,400.0
+494,EBL-VK58A,SUZUKI, ｸﾞﾗﾃﾞｨｳｽ400,ネイキッド,400.0
+495,EBL-VN04J,YAMAHA, BOLT,アメリカン/クルーザー,950.0
+496,EBL-VP56A,SUZUKI, Vｽﾄﾛｰﾑ650,スポーツ/ツアラー,650.0
+497,EBL-VU51A,SUZUKI, VStrom1000 ,オフロード/モタード,1000.0
+498,EBL-XGB,Harley-Davidson, XG750,アメリカン/クルーザー,750.0
+499,EBL-ZRT20D,KAWASAKI, ZRX1200 DAEG,ネイキッド,1200.0
+500,ED22B,SUZUKI, ｼﾞｸｻｰ250SF,ネイキッド,250.0
+501,EJ650A,KAWASAKI, W650,ネイキッド,650.0
+502,EL250A,KAWASAKI, ｴﾘﾐﾈｰﾀｰ250LX,アメリカン/クルーザー,250.0
+503,EN1253F,SUZUKI, EN1253F,ネイキッド,125.0
+504,ER650A,KAWASAKI,  ER6n,ネイキッド,650.0
+505,ER650H,KAWASAKI, Z650,ネイキッド,650.0
+506,EX400G,KAWASAKI, Z400,ネイキッド,400.0
+507,EX650E,KAWASAKI, NINJA650ABS,スポーツ/ツアラー,650.0
+508,F700GS,BMW, F700GS,ネイキッド,800.0
+509,F800GS,BMW, F800GS,オフロード/モタード,800.0
+510,F800GT,BMW, F800GT,スポーツ/ツアラー,800.0
+511,F800R,BMW, F800R,ネイキッド,800.0
+512,FB4,Harley-Davidson, FLHR1580,アメリカン/クルーザー,1580.0
+513,FBM,Harley-Davidson, FLHR1690ﾛｰﾄﾞｷﾝｸﾞ,アメリカン/クルーザー,1690.0
+514,FC4,Harley-Davidson, FLHTCU1580,アメリカン/クルーザー,1580.0
+515,FCM,Harley-Davidson, FLHTCU103,アメリカン/クルーザー,1690.0
+516,FS4,Harley-Davidson, Road Glide  FLTR1580 ,アメリカン/クルーザー,1580.0
+517,FT1,YAMAHA, GR50,ネイキッド,50.0
+518,FXV,Harley-Davidson, FLHRS1450,アメリカン/クルーザー,1450.0
+519,G100,Ducati, ﾃﾞｨｱﾍﾞﾙｶｰﾎﾞﾝ ｸﾙｰｻﾞｰﾓﾃﾞﾙｽﾀｲﾘﾝｸﾞ,アメリカン/クルーザー,1200.0
+520,GA01,Ducati, XﾃﾞｨｱﾍﾞﾙS,アメリカン/クルーザー,1262.0
+521,GDV,Harley-Davidson, Dyna Low Rider  FXDL1450 ,アメリカン/クルーザー,1450.0
+522,GJ55D,SUZUKI, GSR250,ネイキッド,250.0
+523,GJV,Harley-Davidson, FXDX1450,アメリカン/クルーザー,1450.0
+524,GK7DA,SUZUKI, GSR400,ネイキッド,400.0
+525,GK7EA,SUZUKI, GSR400,ネイキッド,400.0
+526,GN4,Harley-Davidson, Dyna Low Rider  FXDL1580 ,アメリカン/クルーザー,1580.0
+527,GN7DA,SUZUKI, GSXR600,スポーツ/ツアラー,600.0
+528,GP4,Harley-Davidson, Dyna Wide Glide  FXDWG1580 ,アメリカン/クルーザー,1580.0
+529,GR71F,SUZUKI, 30･ﾏﾙGSXR750 20ﾓﾃﾞﾙ,スポーツ/ツアラー,750.0
+530,GR7MA,SUZUKI, GSXR750,スポーツ/ツアラー,750.0
+531,GT77A,SUZUKI, GSXR1000,スポーツ/ツアラー,1000.0
+532,GT78A,SUZUKI, GSXR1000,スポーツ/ツアラー,1000.0
+533,GV4,Harley-Davidson, Dyna Super Glide Custom  FXDC1580 ,アメリカン/クルーザー,1584.0
+534,GW71A,SUZUKI, ﾊﾔﾌﾞｻ,スポーツ/ツアラー,1300.0
+535,GX1,Harley-Davidson, FXDB1450,アメリカン/クルーザー,1450.0
+536,GX4,Harley-Davidson, FXDB1580,アメリカン/クルーザー,1580.0
+537,GX72A,SUZUKI, HAYABUSA 1300,スポーツ/ツアラー,1300.0
+538,GX72B,SUZUKI,  ﾊﾔﾌﾞｻﾖｼﾑﾗ,スポーツ/ツアラー,1300.0
+539,GY4,Harley-Davidson, Dyna Fat Bob  FXDF1580 ,アメリカン/クルーザー,1584.0
+540,GY71A,SUZUKI, GSX1400,ネイキッド,1400.0
+541,GZ4,Harley-Davidson, FLD1580ﾀﾞｲﾅｽｲｯﾁﾊﾞｯｸ,アメリカン/クルーザー,1580.0
+542,HA01,Ducati, 959ﾊﾟﾆｶﾞｰﾚ,スポーツ/ツアラー,959.0
+543,HA02,HONDA, Super Cub 90 DX,ネイキッド,90.0
+544,HD11,HONDA, CRM80,オフロード/モタード,80.0
+545,HD12,HONDA, CRM80,オフロード/モタード,80.0
+546,HHH,Harley-Davidson, Night Rod Special  VRSCDX1250 ﾅｲﾄﾛｯﾄﾞ,アメリカン/クルーザー,1250.0
+547,JA55,HONDA, CT125ﾊﾝﾀｰｶﾌﾞ,ネイキッド,125.0
+548,JA60,HONDA, ｸﾛｽｶﾌﾞ110,ネイキッド,110.0
+549,JB5,Harley-Davidson, FXSTD1580ｿﾌﾃｲﾙﾃﾞﾕｰｽ ,アメリカン/クルーザー,1580.0
+550,JBH-AA01,HONDA, ﾘﾄﾙｶﾌﾞ,ネイキッド,50.0
+551,JBH-AA04,HONDA, Super Cub 50,ネイキッド,50.0
+552,JBH-AB27,HONDA, ﾓﾝｷｰ,ネイキッド,50.0
+553,JBH-AC16,HONDA, APE50,ネイキッド,50.0
+554,JBH-AF58,HONDA, ｽﾞｰﾏｰ,スクーター/ビッグスクーター,50.0
+555,JBH-AF67,HONDA, ﾄｩﾃﾞｲ,スクーター/ビッグスクーター,50.0
+556,JBH-AF68,HONDA, DIO,スクーター/ビッグスクーター,50.0
+557,JBH-AF70,HONDA, ｼﾞｮﾙﾉ,スクーター/ビッグスクーター,50.0
+558,JBH-AF74,HONDA, ﾀﾞﾝｸ,スクーター/ビッグスクーター,50.0
+559,JBH-AF75,HONDA, ﾀｸﾄ,スクーター/ビッグスクーター,50.0
+560,JBH-AF77,HONDA, ｼﾞｮﾙﾉ,スクーター/ビッグスクーター,50.0
+561,JBH-AF78,HONDA, ﾀﾞﾝｸ,スクーター/ビッグスクーター,50.0
+562,JBH-AF79,HONDA, ﾀｸﾄﾍﾞｰｼｯｸ,スクーター/ビッグスクーター,50.0
+563,JBH-CA43A,SUZUKI, ﾚｯﾂ4ﾊﾞｽｹｯﾄ,スクーター/ビッグスクーター,50.0
+564,JBH-CA44A,SUZUKI, ｱﾄﾞﾚｽV50,スクーター/ビッグスクーター,50.0
+565,JBH-CA45A,SUZUKI, LET'S4ﾚｯﾂ4,スクーター/ビッグスクーター,50.0
+566,JBH-CA4AA,SUZUKI, ﾚｯﾂ,スクーター/ビッグスクーター,50.0
+567,JBH-CA4BA,SUZUKI, ｱﾄﾞﾚｽV50,スクーター/ビッグスクーター,50.0
+568,JBH-SA31J,YAMAHA, VOX,スクーター/ビッグスクーター,50.0
+569,JBH-SA36J,YAMAHA, JOG,スクーター/ビッグスクーター,50.0
+570,JBH-SA37J,YAMAHA, VINO,スクーター/ビッグスクーター,50.0
+571,JBH-SA39J,YAMAHA, JOG ZR,スクーター/ビッグスクーター,50.0
+572,JBH-SA44J,YAMAHA, BW'Sﾃﾞｻﾞｲﾝ,スクーター/ビッグスクーター,50.0
+573,JBH-SA52J,YAMAHA, VOX,スクーター/ビッグスクーター,50.0
+574,JBH-SA54J,YAMAHA, VINO,スクーター/ビッグスクーター,50.0
+575,JBH-SA55J,YAMAHA, JOG,スクーター/ビッグスクーター,50.0
+576,JBH-SA56J,YAMAHA, JOG,スクーター/ビッグスクーター,50.0
+577,JBH-TA03,HONDA, ｼﾞｬｲﾛｷｬﾉﾋﾟｰ,スクーター/ビッグスクーター,50.0
+578,JBH-TD02,HONDA, ｼﾞｬｲﾛX,スクーター/ビッグスクーター,50.0
+579,JBK-BJ250A,KAWASAKI, ｴｽﾄﾚﾔ,ネイキッド,250.0
+580,JBK-BJ250F,KAWASAKI, 250TR,ネイキッド,250.0
+581,JBK-BX250A,KAWASAKI, NINJA250SL,スポーツ/ツアラー,250.0
+582,JBK-CH41A,SUZUKI, ﾊﾞｰｸﾞﾏﾝ200,スクーター/ビッグスクーター,200.0
+583,JBK-CJ45A,SUZUKI, SKYWAVE 250 TypeM,スクーター/ビッグスクーター,250.0
+584,JBK-CJ47A,SUZUKI, ｼﾞｪﾝﾏ,スクーター/ビッグスクーター,250.0
+585,JBK-DG15J,YAMAHA, WR250R,オフロード/モタード,250.0
+586,JBK-DG16J,YAMAHA, ﾄﾘｯｶｰ,オフロード/モタード,250.0
+587,JBK-DG17J,YAMAHA, ｾﾛｰ250,オフロード/モタード,250.0
+588,JBK-ER250C,KAWASAKI, Z250,ネイキッド,250.0
+589,JBK-EX250K,KAWASAKI, NINJA250R,スポーツ/ツアラー,250.0
+590,JBK-EX250L,KAWASAKI, NINJA250,スポーツ/ツアラー,250.0
+591,JBK-GJ55D,SUZUKI, GSR250F,スポーツ/ツアラー,250.0
+592,JBK-KF12,HONDA, PCX150,スクーター/ビッグスクーター,150.0
+593,JBK-KF18,HONDA, PCX150,スクーター/ビッグスクーター,150.0
+594,JBK-LX250S,KAWASAKI, KLX250,オフロード/モタード,250.0
+595,JBK-LX250V,KAWASAKI, DﾄﾗｯｶｰX,オフロード/モタード,250.0
+596,JBK-MC33,HONDA, VTR250,ネイキッド,250.0
+597,JBK-MC40,HONDA, CB223S,ネイキッド,223.0
+598,JBK-MC41,HONDA, CBR250R,スポーツ/ツアラー,250.0
+599,JBK-MC43,HONDA, CB250F,ネイキッド,250.0
+600,JBK-MD36,HONDA, X R 230ﾓﾀｰﾄﾞ,オフロード/モタード,230.0
+601,JBK-MD38,HONDA, CRF250L,オフロード/モタード,250.0
+602,JBK-MF10,HONDA, ﾌｫﾙﾂｧZ,スクーター/ビッグスクーター,250.0
+603,JBK-MF11,HONDA, ﾌｪｲｽﾞ,スクーター/ビッグスクーター,250.0
+604,JBK-MF12,HONDA, ﾌｫﾙﾂｧSi,スクーター/ビッグスクーター,250.0
+605,JBK-NH42A,SUZUKI, VanVanﾊﾞﾝﾊﾞﾝ200,ネイキッド,200.0
+606,JBK-NJ4CA,SUZUKI, ST250,ネイキッド,250.0
+607,JBK-NJ4DA,SUZUKI, Grass Tracker BIGBOY,ネイキッド,250.0
+608,JBK-RG10J,YAMAHA, YZFR25,スポーツ/ツアラー,250.0
+609,JBK-SG20J,YAMAHA, ﾏｼﾞｪｽﾃｨ2504,スクーター/ビッグスクーター,250.0
+610,JBK-SG28J,YAMAHA, ﾏｼﾞｪｽﾃｨS,スクーター/ビッグスクーター,155.0
+611,JBK-VG05J,YAMAHA, ﾄﾞﾗｯｸﾞｽﾀｰ250,アメリカン/クルーザー,250.0
+612,JBK-VK57A,SUZUKI, BOULEVARD 400 Limited ,アメリカン/クルーザー,400.0
+613,JC618,HONDA, MSX125,ネイキッド,125.0
+614,JC928,HONDA, MSX125 GROMｸﾞﾛﾑ,ネイキッド,125.0
+615,JD01,HONDA, CT110,ネイキッド,110.0
+616,JD5,Harley-Davidson, FLSTN1580,アメリカン/クルーザー,1580.0
+617,JF65,HONDA, NAVI110,ネイキッド,110.0
+618,JGA,KTM, 125DUKE,ネイキッド,125.0
+619,JGE40,KTM, 250ADVENTURE,オフロード/モタード,250.0
+620,JGJ4,KTM, 390ｱﾄﾞﾍﾞﾝﾁｬｰ,スクーター/ビッグスクーター,390.0
+621,JK5,Harley-Davidson, FXCWC1580ｿﾌﾃｲﾙﾛｯｶｰC,アメリカン/クルーザー,1580.0
+622,JL5,Harley-Davidson, FXSTC1580,アメリカン/クルーザー,1580.0
+623,JM5,Harley-Davidson, FLSTSB1580ｸﾛｽﾎﾞｰﾝｽﾞ,アメリカン/クルーザー,1580.0
+624,JN5,Harley-Davidson, FLSTFB1580,アメリカン/クルーザー,1580.0
+625,JP5,Harley-Davidson, FXS1580 ,アメリカン/クルーザー,1580.0
+626,JR5,Harley-Davidson, FLS,アメリカン/クルーザー,1580.0
+627,JRV,Harley-Davidson, FLS1690ｿﾌﾃｲﾙｽﾘﾑ,アメリカン/クルーザー,1690.0
+628,JS9,Harley-Davidson, FLSS1800,アメリカン/クルーザー,1800.0
+629,JT9,Harley-Davidson, FLSTFB S1800,アメリカン/クルーザー,1800.0
+630,JUA,Husqvarna, SVARTPILEN 125 ,アメリカン/クルーザー,125.0
+631,JUC4,KTM, 200ﾃﾞｭｰｸ,ネイキッド,200.0
+632,JUE4,Husqvarna, SVARTPILEN 250,ネイキッド,250.0
+633,JUJ42,Husqvarna, SVARTPILEN 401,ネイキッド,390.0
+634,JYA,KTM, RC125,スポーツ/ツアラー,125.0
+635,KAF,KAWASAKI, 500SS,ネイキッド,500.0
+636,KB4,Harley-Davidson, FLHX1580,アメリカン/クルーザー,1580.0
+637,KBM,Harley-Davidson, FLHX1690,アメリカン/クルーザー,1690.0
+638,KF51,HONDA,  ADV150,スクーター/ビッグスクーター,150.0
+639,KH4,Harley-Davidson, FLTRX1580ﾛｰﾄﾞｸﾞﾗｲﾄﾞ,アメリカン/クルーザー,1580.0
+640,KL110E,KAWASAKI, KSR PRO,オフロード/モタード,110.0
+641,KL250G,KAWASAKI, ｽｰﾊﾟｰｼｪﾙﾊﾟ,オフロード/モタード,250.0
+642,KRP,Harley-Davidson, FLHXS1870,アメリカン/クルーザー,1870.0
+643,KTM,Harley-Davidson, 11FLTRXS1690 ,アメリカン/クルーザー,1690.0
+644,KV075A,KAWASAKI, KV75,ネイキッド,75.0
+645,KVC,Harley-Davidson, FLHRXSﾛｰﾄﾞｷﾝｸﾞｽﾍﾟｼｬﾙ,アメリカン/クルーザー,1750.0
+646,KVP,Harley-Davidson, FLHRXS1870ﾛｰﾄﾞｷﾝｸﾞｽﾍﾟｼｬﾙ,アメリカン/クルーザー,1870.0
+647,KXJ,Aprilia, RX125,オフロード/モタード,125.0
+648,KZ550B,KAWASAKI, Z550FX B3  E4ｶﾗｰ,ネイキッド,550.0
+649,KZ650B,KAWASAKI, KZ650,ネイキッド,650.0
+650,KZ750D,KAWASAKI, Z750FX,ネイキッド,750.0
+651,KZT00A,KAWASAKI, KZ1000,ネイキッド,1000.0
+652,KZT00B,KAWASAKI, Z1000LTD,ネイキッド,1000.0
+653,KZT00D,KAWASAKI, Z1R,ネイキッド,1000.0
+654,KZT00J,KAWASAKI, Z1000J,ネイキッド,1000.0
+655,KZT00R,KAWASAKI, Z1000R,ネイキッド,1000.0
+656,LA41A,SUZUKI, GAG,スポーツ/ツアラー,50.0
+657,LA6,Harley-Davidson, XR1200,アメリカン/クルーザー,1200.0
+658,LC3,Harley-Davidson, XL1200X,アメリカン/クルーザー,1200.0
+659,LE2,Harley-Davidson, XL883N,アメリカン/クルーザー,883.0
+660,LE400A,KAWASAKI, KLE400,オフロード/モタード,400.0
+661,LE650A,KAWASAKI, ﾍﾞﾙｼｽ650,ネイキッド,650.0
+662,LE650C,KAWASAKI, Versys650,ネイキッド,650.0
+663,LF3,Harley-Davidson, XL1200V,アメリカン/クルーザー,1200.0
+664,LHA00,Moto Guzzi, V9ﾎﾞﾊﾞｰ,ネイキッド,850.0
+665,LKB009,Lambretta, V50ｽﾍﾟｼｬﾙ,スクーター/ビッグスクーター,50.0
+666,LWJ,Moto Guzzi, V7ｸﾗｼｯｸ,ネイキッド,750.0
+667,LX,Triumph, Street Triple 85,ネイキッド,675.0
+668,LX250E,KAWASAKI, Dﾄﾗｯｶｰ,オフロード/モタード,250.0
+669,LX250L,SUZUKI, 250SBｶﾜｻｷ DﾄﾗｯｶｰOEM,オフロード/モタード,250.0
+670,M2A,Peugeot, ｽﾋﾟｰﾄﾞDjango125,スクーター/ビッグスクーター,125.0
+671,M3A,Peugeot, Django 150,スクーター/ビッグスクーター,150.0
+672,MA01J,Ducati, ﾓﾝｽﾀｰ1200R,ネイキッド,1200.0
+673,MC10,HONDA, GB250ｸﾗﾌﾞﾏﾝ,ネイキッド,250.0
+674,MC13,HONDA, REBEL,アメリカン/クルーザー,250.0
+675,MC22,HONDA, CBR250RR,スポーツ/ツアラー,250.0
+676,MC23,HONDA,  JADE,ネイキッド,250.0
+677,MC28,HONDA, NSR250R SE,スポーツ/ツアラー,250.0
+678,MC29,HONDA, VTWIN MAGNA,アメリカン/クルーザー,250.0
+679,MC31,HONDA, HORNET,ネイキッド,250.0
+680,MC33,HONDA, VTR,ネイキッド,250.0
+681,MC51,HONDA, CBR250RR,スポーツ/ツアラー,250.0
+682,MC56,HONDA, CB200X,ネイキッド,200.0
+683,MCC,Harley-Davidson, FLRT1750 ,アメリカン/クルーザー,1750.0
+684,MD06,HONDA, XL200R,オフロード/モタード,200.0
+685,MD30,HONDA, XR250,オフロード/モタード,250.0
+686,ME06,HONDA, XR250R,オフロード/モタード,250.0
+687,MX080B,KAWASAKI, KSRⅡ,オフロード/モタード,80.0
+688,NC07,HONDA, CBX400F,ネイキッド,400.0
+689,NC09,HONDA, FT400,ネイキッド,400.0
+690,NC30,HONDA, VFR400R,スポーツ/ツアラー,400.0
+691,NC31,HONDA, CB400 SUPER FOUR Version S,ネイキッド,400.0
+692,NC33,HONDA, VRX Roadster,ネイキッド,400.0
+693,NC34,HONDA, ｼｬﾄﾞｳ400,アメリカン/クルーザー,400.0
+694,NC35,HONDA, RVF400,スポーツ/ツアラー,400.0
+695,NC36,HONDA, CB400FOUR,ネイキッド,400.0
+696,NC586,HONDA, ﾊｲﾈｽCB350,ネイキッド,350.0
+697,NCG,Harley-Davidson, XG750A,アメリカン/クルーザー,750.0
+698,NJ47A,SUZUKI, ﾎﾞﾙﾃｨｰ,ネイキッド,250.0
+699,NK43A,SUZUKI, ST400V,ネイキッド,400.0
+700,PC16,HONDA, GB500TT ﾂｰﾘｽﾄﾄﾛﾌｨｰ ﾀﾞｲｼﾝ,ネイキッド,500.0
+701,PC21,HONDA, ｽﾃｨｰﾄﾞ600,アメリカン/クルーザー,600.0
+702,PCJ,HONDA, CBF125R,スポーツ/ツアラー,125.0
+703,PCJ2N,SUZUKI, GN1252F,アメリカン/クルーザー,125.0
+704,PCJG9,SUZUKI, GN125H,アメリカン/クルーザー,125.0
+705,PCL2,HONDA, CB190X,スポーツ/ツアラー,190.0
+706,PG4,Harley-Davidson, CVO FLHRSE3 ﾛｰﾄﾞｷﾝｸﾞ,アメリカン/クルーザー,1580.0
+707,PG8,Harley-Davidson, CVO FLHRSE6,アメリカン/クルーザー,1800.0
+708,PXN,Harley-Davidson, CVO Street Glide  CVO FLHXSE1800 ,アメリカン/クルーザー,1800.0
+709,PZ8,Harley-Davidson, CVO Street Glide 2  CVO FLHXSE2 1800 ,アメリカン/クルーザー,1800.0
+710,R1200GS,BMW, R1200GS,オフロード/モタード,1200.0
+711,R1200GS-A,BMW, R1200GSｱﾄﾞﾍﾞﾝﾁｬｰ,オフロード/モタード,1200.0
+712,RC04,HONDA, CB750FC,ネイキッド,750.0
+713,RC25,HONDA, ｼｬﾄﾞｳ750,アメリカン/クルーザー,750.0
+714,RC390JYJ42,KTM, RC390,スポーツ/ツアラー,390.0
+715,RC42,HONDA, CB750,ネイキッド,750.0
+716,RC60,HONDA, VFR800X,ネイキッド,780.0
+717,RG42,YAMAHA, FZ25,ネイキッド,250.0
+718,RG47,YAMAHA, XSR155,ネイキッド,155.0
+719,RG631,YAMAHA, XSR155,ネイキッド,155.0
+720,RG672,YAMAHA, YZFR15M ,スポーツ/ツアラー,155.0
+721,RG674,YAMAHA, ,スポーツ/ツアラー,155.0
+722,RH06,YAMAHA, YZFR3,スポーツ/ツアラー,320.0
+723,RJ031,YAMAHA, YZFR6,スポーツ/ツアラー,600.0
+724,RJ07,YAMAHA, FZ6 FAZER ﾚｵｳﾞｨﾝﾁ,スポーツ/ツアラー,600.0
+725,RJ195,YAMAHA, XJ6N,ネイキッド,600.0
+726,RJ228,YAMAHA, XJ6ﾃﾞｨﾊﾞｰｼﾞｮﾝF,スポーツ/ツアラー,600.0
+727,RJ271,YAMAHA, YZFR6,スポーツ/ツアラー,600.0
+728,RN01,YAMAHA, YZFR1,スポーツ/ツアラー,1000.0
+729,RN09,YAMAHA, YZFR1,スポーツ/ツアラー,1000.0
+730,RN13N,YAMAHA, YZFR1,スポーツ/ツアラー,1000.0
+731,RN17N,YAMAHA, FZ1 FAZER,スポーツ/ツアラー,1000.0
+732,RN39,YAMAHA, YZFR1,スポーツ/ツアラー,1000.0
+733,RN40N,YAMAHA, YZFR1M,スポーツ/ツアラー,1000.0
+734,RN49,YAMAHA, YZFR1,スポーツ/ツアラー,1000.0
+735,RP01J,YAMAHA, XJR1300,ネイキッド,1300.0
+736,RP121,YAMAHA, MT01,ネイキッド,1700.0
+737,RP131,YAMAHA, FJR1300A,スポーツ/ツアラー,1300.0
+738,RP17J,YAMAHA, XJR1300,ネイキッド,1300.0
+739,RP22J,YAMAHA, VMAX,ネイキッド,1700.0
+740,RP8M82,Vespa, Primaveraﾌﾟﾘﾏﾍﾞｰﾗ150ABS,スクーター/ビッグスクーター,150.0
+741,S,HONDA, ﾓﾝｷｰ,ネイキッド,50.0
+742,S1000RR,BMW, S1000RR,スポーツ/ツアラー,1000.0
+743,S3F,KAWASAKI, 400SS,ネイキッド,400.0
+744,SC30,HONDA, CB1000Super Four,ネイキッド,1000.0
+745,SC35,HONDA, CBR1100XX,スポーツ/ツアラー,1100.0
+746,SC36,HONDA, VTR1000F,スポーツ/ツアラー,1000.0
+747,SC38,HONDA, X4,アメリカン/クルーザー,1300.0
+748,SC40,HONDA, CB1300 SUPER FOUR,ネイキッド,1300.0
+749,SC44,HONDA, CBR929RR,スポーツ/ツアラー,929.0
+750,SC45,HONDA, RVT1000R,スポーツ/ツアラー,1000.0
+751,SC50,HONDA, CBR954RR,スポーツ/ツアラー,954.0
+752,SC60,HONDA, CB1000R,ネイキッド,1000.0
+753,SEH1,YAMAHA,  ｼｸﾞﾅｽｸﾞﾘﾌｨｽ,スクーター/ビッグスクーター,125.0
+754,SG22,YAMAHA, XMAX250,スクーター/ビッグスクーター,250.0
+755,SG474,YAMAHA, AEROX155 ABS,スクーター/ビッグスクーター,155.0
+756,SH15J,YAMAHA, TRICITY300,スクーター/ビッグスクーター,300.0
+757,SH42A,SUZUKI, DF200E,オフロード/モタード,200.0
+758,SJ091,YAMAHA, TMAX530,スクーター/ビッグスクーター,530.0
+759,SJ092,YAMAHA, TMAX530 ABS,スクーター/ビッグスクーター,530.0
+760,SMTDAD76HW,Triumph, Bonneville Bobber,ネイキッド,1200.0
+761,SMTTE586,Triumph, Speed Triple,ネイキッド,1050.0
+762,SMTTJ915,Triumph, Bonnevile T100 ,ネイキッド,865.0
+763,SMTTMD406,Triumph, ｽﾄﾘｰﾄﾄﾘﾌﾟﾙ,ネイキッド,675.0
+764,SMTTRE,Triumph, ｽﾋﾟｰﾄﾞﾀｲｶﾞｰ800XRT,オフロード/モタード,800.0
+765,SMTTTL,Triumph, ｽﾄﾘｰﾄﾄﾘﾌﾟﾙ,ネイキッド,675.0
+766,ST50,HONDA, ﾀﾞｯｸｽ50,ネイキッド,50.0
+767,T120-1200,Triumph, Bonneville T120,ネイキッド,1200.0
+768,T120-650,Triumph,　Bonneville T1,ネイキッド,650.0
+769,TA8,Harley-Davidson, CVO Road Glide Ultra  CVO FLTRUSE1800 ,アメリカン/クルーザー,1800.0
+770,TBH,Harley-Davidson, CVO TRI GLIDE  FLHTCUTGSE 1800,アメリカン/クルーザー,1920.0
+771,TC8,Harley-Davidson, CVO FLTRXSE1800,アメリカン/クルーザー,1800.0
+772,TD01,HONDA, ｼﾞｬｲﾛX,スクーター/ビッグスクーター,50.0
+773,TD9,Harley-Davidson, CVO,アメリカン/クルーザー,1800.0
+774,TG9,Harley-Davidson, CVO Pro Street Breakout  CVO FXSE1800 ,アメリカン/クルーザー,1800.0
+775,TL125,HONDA, ﾊﾞｲｱﾙｽ,オフロード/モタード,125.0
+776,TPN2,Triumph, Speed Triple RS,ネイキッド,1150.0
+777,TRE68,Triumph, Tiger850Sport,オフロード/モタード,850.0
+778,TS185,SUZUKI, TS185 2ｽﾄﾛｰｸﾓﾃﾞﾙ,オフロード/モタード,185.0
+779,TU94,KTM, 890DUKE,ネイキッド,890.0
+780,UA05J,YAMAHA, YB1 FOUR,ネイキッド,50.0
+781,UA06J,YAMAHA, GEAR2 ﾋﾞｼﾞﾈｽｽｸｰﾀｰｲﾝｼﾞｪｸｼｮﾝﾓﾃﾞﾙｶｺﾞ◎,スクーター/ビッグスクーター,50.0
+782,UA08J,YAMAHA, GEAR,スクーター/ビッグスクーター,50.0
+783,UPV4,Husqvarna, VITPILEN 701,ネイキッド,701.0
+784,V0201,Benelli, Tornado Naked T125,ネイキッド,125.0
+785,VBKUN4,Husqvarna, ｳﾞｨｯﾄﾋﾟﾚﾝ401,ネイキッド,373.0
+786,VBKUNJ4,Husqvarna, SVARTPILEN 401,ネイキッド,373.0
+787,VN400A,KAWASAKI, VULCAN CLASSIC,アメリカン/クルーザー,400.0
+788,VP10J,YAMAHA, ﾄﾞﾗｯｸﾞｽﾀｰ1100,アメリカン/クルーザー,1100.0
+789,VP20E,YAMAHA, VMAX1200,ネイキッド,1200.0
+790,VP20N,YAMAHA, VMAX VMX1200 4C45 ,ネイキッド,1200.0
+791,VP27N,YAMAHA, XV1900CU Raider,アメリカン/クルーザー,1900.0
+792,VP33E,YAMAHA, XVS1300CAｽﾄﾗｲｶｰ,アメリカン/クルーザー,1300.0
+793,VP33N,YAMAHA, XVS1300CAｽﾄﾗｲｶｰ,アメリカン/クルーザー,1300.0
+794,VR440,KTM, 1190RC8,スポーツ/ツアラー,1190.0
+795,VR51A,SUZUKI, VS750 Intruder,アメリカン/クルーザー,750.0
+796,VR540,KTM, 1190 RC8 R,スポーツ/ツアラー,1190.0
+797,YBK,Harley-Davidson, FLHCS1870ｿﾌﾃｲﾙ,アメリカン/クルーザー,1870.0
+798,YDJ,Harley-Davidson, FLSL1750ｿﾌﾃｲﾙｽﾘﾑ,アメリカン/クルーザー,1750.0
+799,YGK,Harley-Davidson, FLFBS1870 ,アメリカン/クルーザー,1870.0
+800,YJJE,Harley-Davidson, FXBB1750,アメリカン/クルーザー,1750.0
+801,YNJ,Harley-Davidson, FXLR1750 ﾛｰﾗｲﾀﾞｰ ,アメリカン/クルーザー,1750.0
+802,YYK,Harley-Davidson, FXBBS1870,アメリカン/クルーザー,1870.0
+803,Z1F,KAWASAKI, ZⅠ,ネイキッド,900.0
+804,Z2F,KAWASAKI, ZⅡ Z2A,ネイキッド,750.0
+805,Z50J,HONDA, ﾓﾝｷｰ,ネイキッド,50.0
+806,Z50Z,HONDA, ﾓﾝｷｰ,ネイキッド,50.0
+807,ZAD-SY11J,YAMAHA, Eﾋﾞｰﾉ,スクーター/ビッグスクーター,50.0
+808,ZAPM74200,Vespa, PX150,スクーター/ビッグスクーター,150.0
+809,ZDMB201JAEB,Ducati, ﾊｲﾊﾟｰﾓﾀｰﾄﾞ821 ABS,オフロード/モタード,820.0
+810,ZDMH704AA,Ducati, 1198S,スポーツ/ツアラー,1198.0
+811,ZDMM406AA4B,Ducati, ﾓﾝｽﾀｰ800,ネイキッド,800.0
+812,ZDMM603JA,Ducati, Monster 1200S,ネイキッド,1200.0
+813,ZDMM603JAEB,Ducati, ﾓﾝｽﾀｰ1200,ネイキッド,1200.0
+814,ZDMM605JAEB,Ducati, Monster 821,ネイキッド,820.0
+815,ZES,Harley-Davidson, Pan America 1250Special  RA1250S ,アメリカン/クルーザー,1250.0
+816,ZGT40A,KAWASAKI, 1400GTR,スポーツ/ツアラー,1400.0
+817,ZR250B,KAWASAKI, BALIUSⅡ,ネイキッド,250.0
+818,ZR400C,KAWASAKI, ZEPHYR χ,ネイキッド,400.0
+819,ZR400E,KAWASAKI, ZRX400,ネイキッド,400.0
+820,ZR750C,KAWASAKI, ZEPHYR750,ネイキッド,750.0
+821,ZR800A,KAWASAKI, Z800,ネイキッド,800.0
+822,ZRT00B,KAWASAKI, Z1000,ネイキッド,1000.0
+823,ZRT00D,KAWASAKI, Z1000,ネイキッド,1000.0
+824,ZRT00F,KAWASAKI, Z1000,ネイキッド,1000.0
+825,ZRT00J,KAWASAKI, Z1000 Rｴﾃﾞｨｼｮﾝ,ネイキッド,1000.0
+826,ZRT10A,KAWASAKI, ZEPHYR1100,ネイキッド,1100.0
+827,ZRT10C,KAWASAKI, ZRX1100,ネイキッド,1100.0
+828,ZRT20A,KAWASAKI, ZRX1200R,ネイキッド,1200.0
+829,ZX400C,KAWASAKI, GPZ400,ネイキッド,400.0
+830,ZX4R,KAWASAKI, Ninja ZX6Rﾊﾞｯｸｽﾃｯﾌﾟ,スポーツ/ツアラー,600.0
+831,ZX636E,KAWASAKI, Ninja ZX6R ABS Special Edition ,スポーツ/ツアラー,600.0
+832,ZX636EE,KAWASAKI, NINJA,スポーツ/ツアラー,600.0
+833,ZX636EF,KAWASAKI, Ninja ZX6R ABS ,スポーツ/ツアラー,636.0
+834,ZX636G,KAWASAKI, Ninja,スポーツ/ツアラー,600.0
+835,ZX900A,KAWASAKI, GPZ900R,スポーツ/ツアラー,900.0
+836,ZXCG,KAWASAKI, NINJA 1000,スポーツ/ツアラー,1000.0
+837,ZXCL,KAWASAKI, ﾆﾝｼﾞｬ1000,スポーツ/ツアラー,1000.0
+838,ZXNA,KAWASAKI, ZX14,スポーツ/ツアラー,1400.0
+839,ZXNC,KAWASAKI, Ninja ZX14 ･,スポーツ/ツアラー,1400.0
+840,ZXNE,KAWASAKI, ZX14R,スポーツ/ツアラー,1400.0
+841,ZXT00C,KAWASAKI, Ninja ZX10R,スポーツ/ツアラー,1000.0
+842,ZXT00E,KAWASAKI, Ninja,スポーツ/ツアラー,1000.0
+843,ZXT00F,KAWASAKI, ZX10R,スポーツ/ツアラー,1000.0
+844,ZXT00G,KAWASAKI, NINJA1000,スポーツ/ツアラー,1000.0
+845,ZXT00H,KAWASAKI, NINJA1000,スポーツ/ツアラー,1000.0
+846,ZXT00J,KAWASAKI, NINJA,スポーツ/ツアラー,1000.0
+847,ZXT00L,KAWASAKI, NINJA 1000 ABS,スポーツ/ツアラー,1000.0
+848,ZXT00M,KAWASAKI,  Ninjaﾆﾝｼﾞｬ1000ABS,スポーツ/ツアラー,1000.0
+849,ZXT00N,KAWASAKI, Ninja,スポーツ/ツアラー,1000.0
+850,ZXT00S,KAWASAKI, Ninja ZX10R ABS KRT Edition,スポーツ/ツアラー,1000.0
+851,ZXT40A,KAWASAKI, ZZR1400 ,スポーツ/ツアラー,1400.0
+852,ZXT40E,KAWASAKI, Ninja ZX14R ABS,スポーツ/ツアラー,1400.0
+853,ZXT40F,KAWASAKI, Ninja ZX14R Special Edition,スポーツ/ツアラー,1400.0
