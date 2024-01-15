@@ -1,0 +1,10 @@
+services:
+   python:
+    container_name: "pyhton"
+    build:
+      dockerfile: "./docker/python/Dockerfile"
+    ports:
+      - "8000:8000"
+      
+    tty: true
+    
