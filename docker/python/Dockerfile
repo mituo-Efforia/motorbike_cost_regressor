@@ -1,6 +1,6 @@
 FROM python:3.10.12
 
-# /appで後続作業を実施します。
+# /appで作業を実施します。
 WORKDIR /app
 # ローカルのrequirements.txtをDockerコンテナ内部にコピーします。
 COPY ./docker/python/requirements.txt /app/requirements/requirements.txt
