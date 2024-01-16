@@ -1,3 +1,8 @@
+# 参考サイト
+# https://tekkubu.com/docker-jupyter-lab/
+# https://zenn.dev/nigimitama/articles/2022-11-23-docker-example-for-jupyterlab
+# 将来的にはこうしたい
+# https://qiita.com/sho-hata/items/02ad47f67bce6816a69a
 version: '3'
 services:
    jupyterlab:
