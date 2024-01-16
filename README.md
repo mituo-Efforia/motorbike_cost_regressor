@@ -113,5 +113,14 @@
         https://www.8190.jp/wish/ds/bike/2100006384475/
     * tenpo.ipynb  
       店舗データを取得したnotebook
-* 'requirements.txt'  
-   実行環境を記載したファイル
+* 'docker-compose.yml'
+  コンテナ作成用ファイル
+  以下のコマンドにより同様の分析環境を構築。
+  　* git clone
+  * 保存先ディレクトリにて  docker-compose up -d を実行。
+  * コンテナが立ち上げ後,WEBブラウザにてhttp://localhost:8888にアクセス。
+* 'docker/python'
+  * 'Dockerfile'
+    コンテナイメージ作成用ファイル
+  * 'requirements.txt'  
+    コンテナいインストールするpythonパッケージリスト
