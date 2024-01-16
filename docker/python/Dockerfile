@@ -1,6 +1,19 @@
 FROM python:3.10.12
 
-COPY ./docker/python/requirements.txt /tmp
-RUN pip install -r /tmp/requirements.txt
+# /appで後続作業を実施します。
 WORKDIR /app
-CMD [ "--host", "0.0.0.0", "--port", "8000", "--reload"]
+# ローカルのrequirements.txtをDockerコンテナ内部にコピーします。
+COPY ./docker/python/requirements.txt /app/requirements/requirements.txt
+# Linuxで使うライブラリを取得
+RUN apt-get update && apt-get install -y \
+    tzdata \
+&&  ln -sf /usr/share/zoneinfo/Asia/Tokyo /etc/localtime \
+&&  apt-get clean \
+&&  rm -rf /var/lib/apt/lists/*
+
+# 上のライブラリ周りと合わせて、timezoneをAsia/Tokyoに
+ENV TZ=Asia/Tokyo
+
+# pipアップグレード＋pipでrequirements.txtのライブラリダウンロード
+RUN python3 -m pip install --upgrade pip \
+&&  pip install -r /app/requirements/requirements.txt
