@@ -40,5 +40,9 @@ statsmodels==0.14.0
 sympy==1.12
 tqdm==4.66.1
 yellowbrick==1.5
+kmodes==0.12.2
+gower==0.1.2
+silhouette==0.0.1a0
+umap-learn==0.5.5
 #コンテナ作成時に必要
 uvicorn==0.20.0
