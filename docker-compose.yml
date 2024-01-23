@@ -7,15 +7,16 @@ services:
       dockerfile: "./docker/python/Dockerfile"
     ports:
       - 8888:8888
-#      - "8000:8000"
+
     # ローカルPCのディレクトリをDockerコンテナにマウント
     # こうすることで、ローカルPCのファイルを変更すると、コンテナ内部もリアルタイムで変更される
     volumes:
-      - ./data:/app/data
-      - ./scrape用:/app/scrape用
-      - ./データ整形用:/app/データ整形用
-      - ./モデル作成:/app/モデル作成
-      - ./分析用:/app/分析用
+      - ./ :/app/
+      # - ./data:/app/data
+      # - ./scrape用:/app/scrape用
+      # - ./データ整形用:/app/データ整形用
+      # - ./モデル作成:/app/モデル作成
+      # - ./分析用:/app/分析用
     # 初回起動時にjupyterlabの起動設定をする。
     entrypoint: >
       jupyter-lab

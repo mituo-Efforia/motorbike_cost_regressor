@@ -1,0 +1,11 @@
+{
+    "name": "bike_cost_regressor",
+    "dockerComposeFile":[
+        "docker-compose.yml"
+    ],
+    "service": "jupyterlab",
+    "workspaceFolder": "/home/jovyan/work",
+    "extensions":[
+        "ms-python.python"
+    ]
+}
