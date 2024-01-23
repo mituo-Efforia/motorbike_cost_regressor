@@ -11,7 +11,7 @@ services:
     # ローカルPCのディレクトリをDockerコンテナにマウント
     # こうすることで、ローカルPCのファイルを変更すると、コンテナ内部もリアルタイムで変更される
     volumes:
-      - ./ :/app/
+      - ./:/app/
       # - ./data:/app/data
       # - ./scrape用:/app/scrape用
       # - ./データ整形用:/app/データ整形用
